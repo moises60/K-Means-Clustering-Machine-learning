@@ -1,4 +1,4 @@
-# Segmentación de Clientes para Concesionario de Coches K-Means Clustering Machine learning
+# Segmentación de Clientes para Concesionario de Coches K-Means Clustering
 
 ![Logo del Proyecto](assets/logo.png)
 
@@ -61,7 +61,7 @@ La segmentación de clientes es fundamental para diseñar estrategias de marketi
 
 ## Instalación
 ```bash
-git clone https://github.com/moises60/Regresion-logistica-machine-learning.git
+git clone https://github.com/moises60/K-Means-Clustering-Machine-learning.git
 ```
 ## Visualizaciones
 # Método del Codo
